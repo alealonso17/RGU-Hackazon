@@ -1,6 +1,6 @@
 # 🐾 Wild Buddy
 
-[[![Funny GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTlzMGtkNGlzMDl2N3R2amY0ejAwNGg1MTRkdnRwMXV4MmlndWg0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YUztJ4dqmXrJ7x3hif/giphy.gif)](https://tenor.com/eILpKTyr7uD.gif)
+https://tenor.com/eILpKTyr7uD.gif
 
 Wild Buddy is a Python app created during the **RGU Hackathon 2024**.  
 It helps **scientists, students, and zookeepers** to easily **analyze, track, and identify animals** in the wild or in captivity.  
